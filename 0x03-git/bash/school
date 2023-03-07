@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-["The school is open"]
-=======
+
 ["The school is open!"]
->>>>>>> update_script
-=======
-echo ["The school is open!"]
->>>>>>> 8f5a93648a875c73676057fc8a1670ec6d0bd296
+
